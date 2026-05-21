@@ -16,8 +16,7 @@ encounter geometries?
 
 ## Why this exists
 
-This is a proof artifact for an HHMI/Janelia AI Scientist - Computational
-Chemistry application. It is intentionally modest: the scout is not a validated
+This is a proof artifact. It is intentionally modest: the scout is not a validated
 predictive model. It is a runnable example of how I turn uncertain chemical
 evidence into a transparent experiment-prioritization loop.
 
@@ -59,13 +58,4 @@ public outputs from `data/public_demo_cases.csv`.
 - The output points to the next source check rather than pretending the model is
   already complete.
 
-## Application framing
 
-This small repository is meant to show three things:
-
-- chemistry depth: photochemistry, host-guest systems, aqueous organization, and
-  light-responsive molecules;
-- computational bridge: structured data, transparent scoring, generated cards,
-  and reproducible outputs;
-- scientific honesty: public-data boundaries, visible caveats, and explicit
-  next experiments.
