@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="596" viewBox="0 0 1120 596">
+<rect width="100%" height="100%" fill="#fffdf8"/>
+<text x="28" y="34" font-family="-apple-system,Inter,sans-serif" font-size="22" font-weight="700" fill="#27231f">HHMI public photodimerization scout rows</text>
+<text x="28" y="60" font-family="-apple-system,Inter,sans-serif" font-size="13" fill="#51483e">Built only from data/public_demo_cases.csv; illustrative triage, not model validation.</text>
+<rect x="24" y="84" width="1072" height="68" rx="14" fill="#f4ecdf"/>
+<rect x="24" y="84" width="10" height="68" rx="5" fill="#6b4ca0"/>
+<text x="48" y="106" font-family="-apple-system,Inter,sans-serif" font-size="15" font-weight="700" fill="#27231f">6-methylcoumarin - cucurbit[8]uril in water</text>
+<text x="48" y="127" font-family="-apple-system,Inter,sans-serif" font-size="12" fill="#51483e">public_crystal_water_comparison - Pemberton et al. Chem. Commun. 2011 DOI 10.1039/C1CC11164G; RSC ESI CCDC 814052</text>
+<text x="48" y="145" font-family="-apple-system,Inter,sans-serif" font-size="12" fill="#6a372f">Caveat: Crystal contact is an interpretable prior from a host-guest CIF, not direct water-phase encounter geometry.</text>
+<rect x="24" y="166" width="1072" height="68" rx="14" fill="#f4ecdf"/>
+<rect x="24" y="166" width="10" height="68" rx="5" fill="#0b7378"/>
+<text x="48" y="188" font-family="-apple-system,Inter,sans-serif" font-size="15" font-weight="700" fill="#27231f">coumarin - water direct UV</text>
+<text x="48" y="209" font-family="-apple-system,Inter,sans-serif" font-size="12" fill="#51483e">public_evidence - Jeyapalan et al. J. Photochem. Photobiol. A 2021 DOI 10.1016/j.jphotochem.2021.113492</text>
+<text x="48" y="227" font-family="-apple-system,Inter,sans-serif" font-size="12" fill="#6a372f">Caveat: Public-facing row is qualitative; do not attach unchecked quantitative values.</text>
+<rect x="24" y="248" width="1072" height="68" rx="14" fill="#f4ecdf"/>
+<rect x="24" y="248" width="10" height="68" rx="5" fill="#516aa3"/>
+<text x="48" y="270" font-family="-apple-system,Inter,sans-serif" font-size="15" font-weight="700" fill="#27231f">trans-cinnamic acids - gamma-cyclodextrin in water</text>
+<text x="48" y="291" font-family="-apple-system,Inter,sans-serif" font-size="12" fill="#51483e">public_water_outcome_only - Pattabiraman et al. Organic Letters 2005 DOI 10.1021/ol047866k</text>
+<text x="48" y="309" font-family="-apple-system,Inter,sans-serif" font-size="12" fill="#6a372f">Caveat: Same paper family as the CB8 row; present as host-contrast scaffold rather than independent exhaustive evidence.</text>
+<rect x="24" y="330" width="1072" height="68" rx="14" fill="#f4ecdf"/>
+<rect x="24" y="330" width="10" height="68" rx="5" fill="#516aa3"/>
+<text x="48" y="352" font-family="-apple-system,Inter,sans-serif" font-size="15" font-weight="700" fill="#27231f">trans-cinnamic acids - cucurbit[8]uril in water</text>
+<text x="48" y="373" font-family="-apple-system,Inter,sans-serif" font-size="12" fill="#51483e">public_water_outcome_only - Pattabiraman et al. Organic Letters 2005 DOI 10.1021/ol047866k</text>
+<text x="48" y="391" font-family="-apple-system,Inter,sans-serif" font-size="12" fill="#6a372f">Caveat: Family-level public row; do not imply all derivatives share one outcome or a measured crystal geometry.</text>
+<rect x="24" y="412" width="1072" height="68" rx="14" fill="#f4ecdf"/>
+<rect x="24" y="412" width="10" height="68" rx="5" fill="#516aa3"/>
+<text x="48" y="434" font-family="-apple-system,Inter,sans-serif" font-size="15" font-weight="700" fill="#27231f">trans-cinnamic acid esters - water-soluble Pd nanocage</text>
+<text x="48" y="455" font-family="-apple-system,Inter,sans-serif" font-size="12" fill="#51483e">public_water_outcome_only - Karthikeyan and Ramamurthy J. Org. Chem. 2007 DOI 10.1021/jo0617722</text>
+<text x="48" y="473" font-family="-apple-system,Inter,sans-serif" font-size="12" fill="#6a372f">Caveat: Public nanocage precedent only; keep as family-level literature context rather than a validated model row.</text>
+<rect x="24" y="494" width="1072" height="68" rx="14" fill="#f4ecdf"/>
+<rect x="24" y="494" width="10" height="68" rx="5" fill="#9a7a2f"/>
+<text x="48" y="516" font-family="-apple-system,Inter,sans-serif" font-size="15" font-weight="700" fill="#27231f">public-safe generic alkene schema - detached RDKit/scoring mechanics</text>
+<text x="48" y="537" font-family="-apple-system,Inter,sans-serif" font-size="12" fill="#51483e">schema_demo_only - Generated from Scout v0 schema only; no source-evidence row attached</text>
+<text x="48" y="555" font-family="-apple-system,Inter,sans-serif" font-size="12" fill="#6a372f">Caveat: Schema row is visual mechanics only and must not be counted as literature evidence.</text>
+</svg>
